@@ -10,7 +10,7 @@ w1 = 6*pi;
 sq1 = A*square(w1*t+rho);
 
 plot(t,sq, t, sq1, "linewidth", 1.5), 
-grid, set (gca,'FontName', 'ArialCyr','FontSize',16)
+grid, set (gca,'FontName', 'ArialCyr','FontSize',13)
 
 legend("Semnal sq", "Semnal sq1", "AutoUpdate", "off")
 
