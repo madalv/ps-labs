@@ -1,2 +1,3 @@
 # PS LABS
-### Done by: Irina Tiora & Vlada Magal, FAF-203 :)
+
+Laboratory works for Signal Processing. Done by Irina Tiora & Vlada Magal (FAF-203) :)
